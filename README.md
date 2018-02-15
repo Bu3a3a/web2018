@@ -17,7 +17,7 @@
 
 ## Practice
 
-0. Прости курс https://www.coursera.org/learn/html-css-javascript-for-web-developers
+0. Пройти курс https://www.coursera.org/learn/html-css-javascript-for-web-developers
 1. Сделать свой проект на джанго, в котором должны быть:
     
     1. Запись/чтение из базы данных;
